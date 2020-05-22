@@ -1,12 +1,17 @@
 # Flask  
 ## **BASIC**
-  - Routing and Calling Function  
-  - Passing the value as user  from URL  
-  - Usage of Template( Template Rendering)  
-  - Various Types of Characters that can be used    
-  - Display of image on webpage  
-  - Request Handling (POST and GET)  
-  - Cokkies  
+  - configuration	
+  - cookies	
+  - debug_mode	
+  - intro_to_routes
+  - redirects_and_url_for
+  - request_form_data	
+  - request_json_data	
+  - request_query_string	
+  - route_methods	
+  - route_variables
+  - sessions	
+  - ways_to_print_characters
 ## **Deployment**
   - Heroku
   - PythonAnywhere
