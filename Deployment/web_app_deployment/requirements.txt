@@ -120,7 +120,7 @@ Pygments==2.2.0
 pykurento==0.0.1
 pylint==1.7.4
 pyodbc==4.0.17
-pyOpenSSL==17.2.0
+pyOpenSSL==17.5.0
 pyparsing==2.2.0
 PyQt5==5.12.3
 PyQt5-sip==4.19.18
